@@ -70,6 +70,7 @@ Ferramentas e tecnologias que fazem parte dos meus estudos e dos meus projetos.
 <tr>
 <td bgcolor="#f2f9ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML" />
 ### HTML
 
 Estrutura
@@ -77,6 +78,7 @@ Estrutura
 </td>
 <td bgcolor="#e4f3ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS" />
 ### CSS
 
 Estilo
@@ -84,6 +86,7 @@ Estilo
 </td>
 <td bgcolor="#f2f9ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
 ### JavaScript
 
 Interação
@@ -91,6 +94,7 @@ Interação
 </td>
 <td bgcolor="#e4f3ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" />
 ### React
 
 Interfaces
@@ -100,6 +104,7 @@ Interfaces
 <tr>
 <td bgcolor="#e4f3ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React Native" />
 ### React Native
 
 Mobile
@@ -107,6 +112,7 @@ Mobile
 </td>
 <td bgcolor="#f2f9ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38" height="38" alt="Firebase" />
 ### Firebase
 
 Dados
@@ -114,6 +120,7 @@ Dados
 </td>
 <td bgcolor="#e4f3ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" height="38" alt="PHP" />
 ### PHP
 
 Back-end
@@ -121,6 +128,7 @@ Back-end
 </td>
 <td bgcolor="#f2f9ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" />
 ### Python
 
 Programação
@@ -130,6 +138,7 @@ Programação
 <tr>
 <td bgcolor="#f2f9ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="38" height="38" alt="Arduino" />
 ### Arduino
 
 Eletrônica
@@ -137,6 +146,7 @@ Eletrônica
 </td>
 <td bgcolor="#e4f3ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" />
 ### Git
 
 Versionamento
@@ -144,6 +154,7 @@ Versionamento
 </td>
 <td bgcolor="#f2f9ff" width="25%" align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="38" height="38" alt="Figma" />
 ### Figma
 
 Interface
