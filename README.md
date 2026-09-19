@@ -1,221 +1,78 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/profile-showcase.svg" width="100%" alt="Portfólio de Eduarda" />
+# Eduarda .
+
+**Estudante de Desenvolvimento de Sistemas**
+
+[Portfólio](https://portif-lio-ten-psi.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/Duerda) &nbsp;·&nbsp; [Contato](mailto:eduardasouzateixeira68@gmail.com)
 
 </div>
 
-[PORTFÓLIO](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; / &nbsp;&nbsp; [GITHUB](https://github.com/Duerda) &nbsp;&nbsp; / &nbsp;&nbsp; [CONTATO](mailto:eduardasouzateixeira68@gmail.com)
+<br>
 
----
+## 01 / sobre mim
 
-## 01 / SOBRE MIM
+### Oi, eu sou a _Eduarda._
 
-# Uma pessoa curiosa, aprendendo a encontrar seu lugar na _tecnologia._
+Tenho 17 anos, moro em Itu e estudo Desenvolvimento de Sistemas na Etec.
 
-Estou estudando Desenvolvimento de Sistemas e conhecendo diferentes áreas dentro da tecnologia. Ainda estou descobrindo qual caminho combina mais comigo.
+Gosto de tecnologia e de descobrir, na prática, como sites e aplicativos são feitos. Estou aprendendo a criar projetos que unem código, organização e uma experiência bonita para quem usa.
 
-Gosto de aprender fazendo, testar ideias e criar projetos que me ajudam a entender melhor o que estudo.
+<div align="center">
 
----
+`curiosa` &nbsp;&nbsp; **por natureza** &nbsp;&nbsp;&nbsp;&nbsp; `aprendendo` &nbsp;&nbsp; **todos os dias**
 
-## 02 / FERRAMENTAS
+</div>
 
-# O que estou _aprendendo._
+<br>
 
-Ferramentas e tecnologias que fazem parte dos meus estudos e dos meus projetos.
+## 02 / ferramentas
 
-<table>
-<tr>
-<td bgcolor="#f2f9ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML" />
-### HTML
-
-Estrutura
-
-</td>
-<td bgcolor="#e4f3ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS" />
-### CSS
-
-Estilo
-
-</td>
-<td bgcolor="#f2f9ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
-### JavaScript
-
-Interação
-
-</td>
-<td bgcolor="#e4f3ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" />
-### React
-
-Interfaces
-
-</td>
-</tr>
-<tr>
-<td bgcolor="#e4f3ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React Native" />
-### React Native
-
-Mobile
-
-</td>
-<td bgcolor="#f2f9ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38" height="38" alt="Firebase" />
-### Firebase
-
-Dados
-
-</td>
-<td bgcolor="#e4f3ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" height="38" alt="PHP" />
-### PHP
-
-Back-end
-
-</td>
-<td bgcolor="#f2f9ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" />
-### Python
-
-Programação
-
-</td>
-</tr>
-<tr>
-<td bgcolor="#f2f9ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="38" height="38" alt="Arduino" />
-### Arduino
-
-Eletrônica
-
-</td>
-<td bgcolor="#e4f3ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" />
-### Git
-
-Versionamento
-
-</td>
-<td bgcolor="#f2f9ff" width="25%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="38" height="38" alt="Figma" />
-### Figma
-
-Interface
-
-</td>
-<td bgcolor="#e4f3ff" width="25%" align="center">
-
-### UI Design
-
-Experiência
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / PROJETOS
-
-# Coisas que já _criei._
-
-Projetos acadêmicos e pessoais que fazem parte do meu aprendizado.
+### O que estou _aprendendo._
 
 <table>
 <tr>
-<td bgcolor="#e4f3ff" width="50%" valign="top">
-
-#### 01 / PROJETO PESSOAL
-
-# Universyn
-
-**Seu universo de estudos.**
-
-Uma experiência de estudos com foco, tarefas e organização.
-
-[ver no GitHub →](https://github.com/Duerda/Universyn)
-
-</td>
-<td bgcolor="#f2f9ff" width="50%" valign="top">
-
-#### 02 / PROJETO ACADÊMICO
-
-# Cafeteria Delícia
-
-**Café e encontros.**
-
-Landing page para apresentar uma marca, seu ambiente e suas experiências.
-
-[ver no GitHub →](https://github.com/Duerda/landingpage)
-
-</td>
+<td bgcolor="#f2f9ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" alt="HTML" /><br>HTML</td>
+<td bgcolor="#e4f3ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS" /><br>CSS</td>
+<td bgcolor="#f2f9ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" /><br>JavaScript</td>
+<td bgcolor="#e4f3ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" alt="React" /><br>React</td>
+<td bgcolor="#f2f9ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="32" alt="Firebase" /><br>Firebase</td>
 </tr>
 <tr>
-<td bgcolor="#f2f9ff" width="50%" valign="top">
-
-#### 03 / PROJETO DE FRONT-END
-
-# SimplA
-
-**Ferramentas para o dia a dia.**
-
-Uma aplicação web com ferramentas simples, rápidas e úteis.
-
-[ver no GitHub →](https://github.com/Duerda/siimpla)
-
-</td>
-<td bgcolor="#e4f3ff" width="50%" valign="top">
-
-#### 04 / PROJETO DE TCC
-
-# TCCChat
-
-**Conectando pessoas e ideias.**
-
-Projeto desenvolvido em equipe para criar uma experiência de conversa online.
-
-[ver no GitHub →](https://github.com/Duerda/tcchat)
-
-</td>
-</tr>
-</table>
-
----
-
-## 04 / CONTATO
-
-<table>
-<tr>
-<td bgcolor="#e4f3ff" align="center">
-
-# Quer falar _comigo?_
-
-Se quiser conhecer melhor meu trabalho ou trocar uma ideia, meu GitHub e meu e-mail estão aqui.
-
-[Enviar e-mail](mailto:eduardasouzateixeira68@gmail.com) &nbsp;&nbsp; [Portfólio](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; [GitHub](https://github.com/Duerda)
-
-</td>
+<td bgcolor="#e4f3ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32" alt="PHP" /><br>PHP</td>
+<td bgcolor="#f2f9ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python" /><br>Python</td>
+<td bgcolor="#e4f3ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="32" alt="Arduino" /><br>Arduino</td>
+<td bgcolor="#f2f9ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" alt="Git" /><br>Git</td>
+<td bgcolor="#e4f3ff" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" alt="Figma" /><br>Figma</td>
 </tr>
 </table>
 
 <br>
 
+## 03 / projetos
+
+### Coisas que já _criei._
+
+| Projeto | Descrição | Link |
+|:--|:--|:--|
+| **Universyn** | Seu universo de estudos. | [ver projeto](https://github.com/Duerda/Universyn) |
+| **Cafeteria Delícia** | Landing page para uma marca e seu ambiente. | [ver projeto](https://github.com/Duerda/landingpage) |
+| **SimplA** | Ferramentas simples, rápidas e úteis. | [ver projeto](https://github.com/Duerda/siimpla) |
+| **TCCChat** | Projeto de conversa online desenvolvido em equipe. | [ver projeto](https://github.com/Duerda/tcchat) |
+
+<br>
+
+## 04 / contato
+
+### Quer falar _comigo?_
+
+Se quiser conhecer melhor meu trabalho ou trocar uma ideia, meu portfólio, GitHub e e-mail estão aqui.
+
 <div align="center">
+
+[Enviar e-mail](mailto:eduardasouzateixeira68@gmail.com) &nbsp;·&nbsp; [Portfólio](https://portif-lio-ten-psi.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/Duerda)
+
+<br><br>
 
 <sub>Eduarda de Souza Teixeira · Itu, SP</sub>
 
