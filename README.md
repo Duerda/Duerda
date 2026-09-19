@@ -9,6 +9,7 @@
 </div>
 
 <br>
+<div align="center"><img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/blue-rule.svg" width="100%" alt="" /></div>
 
 <table>
 <tr>
@@ -48,6 +49,7 @@ aprendendo
 <br>
 
 ## 01 / sobre mim
+<div align="center"><img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/blue-rule.svg" width="100%" alt="" /></div>
 
 ### Uma pessoa curiosa, aprendendo a encontrar seu lugar na _tecnologia._
 
@@ -56,6 +58,7 @@ Estou conhecendo diferentes áreas dentro do desenvolvimento e descobrindo quais
 ---
 
 ## 02 / ferramentas
+<div align="center"><img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/blue-rule.svg" width="100%" alt="" /></div>
 
 ### O que estou _aprendendo._
 
@@ -83,6 +86,7 @@ Estou conhecendo diferentes áreas dentro do desenvolvimento e descobrindo quais
 ---
 
 ## 03 / projetos
+<div align="center"><img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/blue-rule.svg" width="100%" alt="" /></div>
 
 ### Coisas que já _criei._
 
@@ -140,6 +144,7 @@ Projeto desenvolvido em equipe para criar uma experiência de conversa online.
 ---
 
 ## 04 / contato
+<div align="center"><img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/blue-rule.svg" width="100%" alt="" /></div>
 
 ### Quer falar _comigo?_
 
