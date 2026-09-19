@@ -1,81 +1,159 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=DUERDA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Construindo%20ideias%20na%20web&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
-</div>
 
-<div align="center">
-
-# Olá, eu sou Duerda 👋
-
-### Desenvolvedor web em evolução · Criador de ideias · Explorador de tecnologia
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duerda)
-[![Profile Views](https://komarev.com/ghpvc/?username=Duerda&style=for-the-badge&color=7c3aed&label=VISITAS)](https://github.com/Duerda)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2a2a2a&height=180&section=header&text=Eduarda%20de%20Souza%20Teixeira&fontSize=34&fontColor=F5F1EA&fontAlignY=42&desc=ESTUDANTE%20DE%20DESENVOLVIMENTO%20DE%20SISTEMAS&descSize=11&descAlignY=62&descColor=C9C1B5" width="100%" />
 
 </div>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## ✦ Sobre mim
+# Oi, eu sou a _Eduarda._
 
-Sou uma pessoa apaixonada por tecnologia e desenvolvimento, transformando ideias em experiências digitais. Estou sempre aprendendo, experimentando ferramentas novas e buscando escrever código cada vez melhor.
+Tenho 17 anos, moro em Itu e estudo **Desenvolvimento de Sistemas na Etec**.
 
-> **Meu objetivo:** criar projetos úteis, bonitos e com personalidade — uma linha de código por vez.
+Gosto de aprender fazendo, testar ideias e transformar o que estudo em projetos que tenham intenção, personalidade e uma boa experiência de uso.
 
-- 🚀 Desenvolvendo projetos para a web
-- 🧠 Aprendendo e evoluindo continuamente
-- 🎨 Gosto de interfaces criativas e bem construídas
-- 🌌 Explorando o universo do desenvolvimento de software
+[Sobre mim](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; [GitHub](https://github.com/Duerda) &nbsp;&nbsp; [Contato](mailto:eduardasouzateixeira68@gmail.com)
 
----
+</td>
+<td width="45%" valign="top">
 
-## ⚡ Minha stack
+### atualmente
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
-
-</div>
-
-## 📊 GitHub em números
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Duerda&show_icons=true&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duerda&layout=compact&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e2e8f0&langs_count=6" />
-</div>
+> curiosa por natureza  
+> aprendendo todos os dias  
+> encontrando meu lugar na tecnologia
 
 <br>
 
+**17** anos  
+**Itu**, SP  
+**Etec**, 2DS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 01 / sobre mim
+
+### Uma pessoa curiosa, aprendendo a encontrar seu lugar na _tecnologia._
+
+Estou conhecendo diferentes áreas dentro do desenvolvimento e descobrindo quais caminhos fazem sentido para mim. No processo, gosto de criar interfaces, experimentar ferramentas e construir projetos que me façam entender melhor como as coisas funcionam.
+
+Meu foco hoje está em desenvolvimento web, interfaces e na combinação entre código, organização e uma boa direção visual.
+
+---
+
+## 02 / ferramentas
+
+### O que estou _aprendendo._
+
+| Área | Tecnologias |
+|:--|:--|
+| Front-end | HTML, CSS, JavaScript, React |
+| Mobile | React Native |
+| Back-end e dados | PHP, Firebase, Python |
+| Eletrônica | Arduino |
+| Design | Figma, UI Design |
+| Versionamento | Git, GitHub |
+
+---
+
+## 03 / projetos
+
+### Coisas que já _criei._
+
+Projetos acadêmicos e pessoais que fazem parte do meu aprendizado.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 / projeto pessoal
+
+### Universyn
+
+Uma experiência de estudos com foco, tarefas e organização.
+
+[ver projeto](https://github.com/Duerda/Universyn)
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 / projeto acadêmico
+
+### Cafeteria Delícia
+
+Landing page para apresentar uma marca, seu ambiente e suas experiências.
+
+[ver projeto](https://github.com/Duerda/landingpage)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 / projeto de front-end
+
+### SimplA
+
+Uma aplicação web com ferramentas simples para ajudar nas tarefas do dia a dia.
+
+[ver projeto](https://github.com/Duerda/siimpla)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 / projeto de TCC
+
+### TCCChat
+
+Projeto desenvolvido em equipe para criar uma experiência de conversa online.
+
+[ver projeto](https://github.com/Duerda/tcchat)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / atividade no GitHub
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Duerda&theme=transparent&hide_border=true&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" width="70%" />
-</div>
 
-## 🧩 Em construção
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duerda&show_icons=true&hide_border=true&bg_color=111111&title_color=F5F1EA&icon_color=C9C1B5&text_color=D8D1C7&ring_color=C9C1B5&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duerda&layout=compact&hide_border=true&bg_color=111111&title_color=F5F1EA&text_color=D8D1C7&langs_count=6" />
 
-```text
-Ideias       ███████████████████░░  90%
-Aprendizado  ████████████████░░░░░  75%
-Projetos     ██████████████░░░░░░░  65%
-Café         █████████████████████ 100%
-```
+<br><br>
 
-## ✨ Filosofia
-
-<div align="center">
-
-### “Grandes projetos começam com uma pequena ideia e muita vontade de aprender.”
+<img src="https://streak-stats.demolab.com?user=Duerda&theme=dark&hide_border=true&background=111111&ring=C9C1B5&fire=F5F1EA&currStreakLabel=F5F1EA&sideLabels=D8D1C7&dates=8D877F&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
 
 </div>
 
 ---
 
+## 05 / contato
+
+### Quer falar _comigo?_
+
+Se quiser conhecer melhor meu trabalho ou trocar uma ideia, meu portfólio, GitHub e e-mail estão aqui.
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
+
+[PORTFÓLIO](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; / &nbsp;&nbsp; [GITHUB](https://github.com/Duerda) &nbsp;&nbsp; / &nbsp;&nbsp; [E-MAIL](mailto:eduardasouzateixeira68@gmail.com)
+
+<br><br>
+
+<sub>Feito por Eduarda de Souza Teixeira · Itu, SP</sub>
+
 </div>
 
 <div align="center">
-  <sub>Feito com curiosidade, código e muitas ideias.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:111111&height=100&section=footer" width="100%" />
+
 </div>
