@@ -1,29 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2a2a2a&height=180&section=header&text=Eduarda%20de%20Souza%20Teixeira&fontSize=34&fontColor=F5F1EA&fontAlignY=42&desc=ESTUDANTE%20DE%20DESENVOLVIMENTO%20DE%20SISTEMAS&descSize=11&descAlignY=62&descColor=C9C1B5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:173653,55:2879ae,100:73bced&height=190&section=header&text=Eduarda%20.&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=ESTUDANTE%20DE%20DESENVOLVIMENTO%20DE%20SISTEMAS&descSize=11&descAlignY=62&descColor=e4f3ff&animation=fadeIn" width="100%" />
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 # Oi, eu sou a _Eduarda._
 
 Tenho 17 anos, moro em Itu e estudo **Desenvolvimento de Sistemas na Etec**.
 
-Gosto de aprender fazendo, testar ideias e transformar o que estudo em projetos que tenham intenção, personalidade e uma boa experiência de uso.
+Gosto de tecnologia e de descobrir, na prática, como sites e aplicativos são feitos. Aprendo fazendo, testo ideias e transformo cada projeto em uma nova forma de entender a tecnologia.
 
-[Sobre mim](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; [GitHub](https://github.com/Duerda) &nbsp;&nbsp; [Contato](mailto:eduardasouzateixeira68@gmail.com)
+[Meu portfólio](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; [Meu GitHub](https://github.com/Duerda) &nbsp;&nbsp; [Fale comigo](mailto:eduardasouzateixeira68@gmail.com)
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ### atualmente
 
-> curiosa por natureza  
-> aprendendo todos os dias  
-> encontrando meu lugar na tecnologia
+> curiosa  
+> por natureza
+
+<br>
+
+> aprendendo  
+> todos os dias
 
 <br>
 
@@ -41,9 +45,9 @@ Gosto de aprender fazendo, testar ideias e transformar o que estudo em projetos 
 
 ### Uma pessoa curiosa, aprendendo a encontrar seu lugar na _tecnologia._
 
-Estou conhecendo diferentes áreas dentro do desenvolvimento e descobrindo quais caminhos fazem sentido para mim. No processo, gosto de criar interfaces, experimentar ferramentas e construir projetos que me façam entender melhor como as coisas funcionam.
+Estou estudando Desenvolvimento de Sistemas e conhecendo diferentes áreas dentro da tecnologia. Ainda estou descobrindo qual caminho combina mais comigo, mas já encontrei algo que gosto: criar, testar e aprender na prática.
 
-Meu foco hoje está em desenvolvimento web, interfaces e na combinação entre código, organização e uma boa direção visual.
+Meu foco atual está em desenvolvimento web, interfaces e projetos que unem código, organização e uma experiência bonita para quem usa.
 
 ---
 
@@ -59,6 +63,17 @@ Meu foco hoje está em desenvolvimento web, interfaces e na combinação entre c
 | Eletrônica | Arduino |
 | Design | Figma, UI Design |
 | Versionamento | Git, GitHub |
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-e4f3ff?style=for-the-badge&logo=html5&logoColor=2879ae)
+![CSS3](https://img.shields.io/badge/CSS3-e4f3ff?style=for-the-badge&logo=css3&logoColor=2879ae)
+![JavaScript](https://img.shields.io/badge/JavaScript-e4f3ff?style=for-the-badge&logo=javascript&logoColor=173653)
+![React](https://img.shields.io/badge/React-e4f3ff?style=for-the-badge&logo=react&logoColor=2879ae)
+![Figma](https://img.shields.io/badge/Figma-e4f3ff?style=for-the-badge&logo=figma&logoColor=2879ae)
+![Git](https://img.shields.io/badge/Git-e4f3ff?style=for-the-badge&logo=git&logoColor=2879ae)
+
+</div>
 
 ---
 
@@ -78,7 +93,7 @@ Projetos acadêmicos e pessoais que fazem parte do meu aprendizado.
 
 Uma experiência de estudos com foco, tarefas e organização.
 
-[ver projeto](https://github.com/Duerda/Universyn)
+[ver projeto →](https://github.com/Duerda/Universyn)
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +104,7 @@ Uma experiência de estudos com foco, tarefas e organização.
 
 Landing page para apresentar uma marca, seu ambiente e suas experiências.
 
-[ver projeto](https://github.com/Duerda/landingpage)
+[ver projeto →](https://github.com/Duerda/landingpage)
 
 </td>
 </tr>
@@ -102,7 +117,7 @@ Landing page para apresentar uma marca, seu ambiente e suas experiências.
 
 Uma aplicação web com ferramentas simples para ajudar nas tarefas do dia a dia.
 
-[ver projeto](https://github.com/Duerda/siimpla)
+[ver projeto →](https://github.com/Duerda/siimpla)
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +128,7 @@ Uma aplicação web com ferramentas simples para ajudar nas tarefas do dia a dia
 
 Projeto desenvolvido em equipe para criar uma experiência de conversa online.
 
-[ver projeto](https://github.com/Duerda/tcchat)
+[ver projeto →](https://github.com/Duerda/tcchat)
 
 </td>
 </tr>
@@ -125,12 +140,12 @@ Projeto desenvolvido em equipe para criar uma experiência de conversa online.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duerda&show_icons=true&hide_border=true&bg_color=111111&title_color=F5F1EA&icon_color=C9C1B5&text_color=D8D1C7&ring_color=C9C1B5&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duerda&layout=compact&hide_border=true&bg_color=111111&title_color=F5F1EA&text_color=D8D1C7&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duerda&show_icons=true&hide_border=true&bg_color=f2f9ff&title_color=173653&icon_color=2879ae&text_color=28445a&ring_color=73bced&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duerda&layout=compact&hide_border=true&bg_color=f2f9ff&title_color=173653&text_color=28445a&langs_count=6" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Duerda&theme=dark&hide_border=true&background=111111&ring=C9C1B5&fire=F5F1EA&currStreakLabel=F5F1EA&sideLabels=D8D1C7&dates=8D877F&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Duerda&theme=transparent&hide_border=true&background=f2f9ff&ring=2879ae&fire=73bced&currStreakLabel=173653&sideLabels=28445a&dates=70889a&currStreakNum=173653&sideNums=173653" width="70%" />
 
 </div>
 
@@ -138,22 +153,22 @@ Projeto desenvolvido em equipe para criar uma experiência de conversa online.
 
 ## 05 / contato
 
+<div align="center">
+
 ### Quer falar _comigo?_
 
 Se quiser conhecer melhor meu trabalho ou trocar uma ideia, meu portfólio, GitHub e e-mail estão aqui.
-
-<div align="center">
 
 [PORTFÓLIO](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; / &nbsp;&nbsp; [GITHUB](https://github.com/Duerda) &nbsp;&nbsp; / &nbsp;&nbsp; [E-MAIL](mailto:eduardasouzateixeira68@gmail.com)
 
 <br><br>
 
-<sub>Feito por Eduarda de Souza Teixeira · Itu, SP</sub>
+<sub>Eduarda de Souza Teixeira · Itu, SP</sub>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:111111&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:73bced,50:2879ae,100:173653&height=100&section=footer" width="100%" />
 
 </div>
