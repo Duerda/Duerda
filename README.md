@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eduarda .
+# Eduarda 
 
 **ESTUDANTE DE DESENVOLVIMENTO DE SISTEMAS**
 
