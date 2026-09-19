@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:173653,55:2879ae,100:73bced&height=190&section=header&text=Eduarda%20.&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=ESTUDANTE%20DE%20DESENVOLVIMENTO%20DE%20SISTEMAS&descSize=11&descAlignY=62&descColor=e4f3ff&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/profile-banner.svg" width="100%" alt="Eduarda de Souza Teixeira — estudante de desenvolvimento de sistemas" />
 
 </div>
+
 
 <table>
 <tr>
