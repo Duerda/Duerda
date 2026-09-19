@@ -1,52 +1,10 @@
 <div align="center">
 
-# Eduarda 
-
-**ESTUDANTE DE DESENVOLVIMENTO DE SISTEMAS**
-
-[Sobre mim](#01--sobre-mim) &nbsp;&nbsp; [Ferramentas](#02--ferramentas) &nbsp;&nbsp; [Projetos](#03--projetos) &nbsp;&nbsp; [Contato](#04--contato)
+<img src="https://raw.githubusercontent.com/Duerda/Duerda/main/assets/profile-showcase.svg" width="100%" alt="Portfólio de Eduarda" />
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td bgcolor="#f2f9ff" width="65%" valign="top">
-
-# Oi, eu sou a _Eduarda._
-
-Tenho 17 anos, moro em Itu e estudo Desenvolvimento de Sistemas na Etec.
-
-Gosto de tecnologia e de descobrir, na prática, como sites e aplicativos são feitos.
-
-[Me conheça](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; [Meu GitHub](https://github.com/Duerda)
-
-</td>
-<td bgcolor="#e4f3ff" width="35%" valign="top">
-
-### 17
-anos
-
-### Itu
-São Paulo
-
-### Etec
-2DS
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`curiosa` &nbsp;&nbsp; **por natureza**
-
-`aprendendo` &nbsp;&nbsp; **todos os dias**
-
-</div>
+[PORTFÓLIO](https://portif-lio-ten-psi.vercel.app) &nbsp;&nbsp; / &nbsp;&nbsp; [GITHUB](https://github.com/Duerda) &nbsp;&nbsp; / &nbsp;&nbsp; [CONTATO](mailto:eduardasouzateixeira68@gmail.com)
 
 ---
 
